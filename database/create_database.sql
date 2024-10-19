@@ -1,0 +1,1 @@
+CREATE DATABASE springbootweek3month102024 character set UTF8 collate utf8_bin;
